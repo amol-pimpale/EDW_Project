@@ -4,5 +4,5 @@
   "zone": "asia-south1-a",
   "storage_bucket": "my-gcp-bucket",
   "dataset_id": "edw_dataset",
-  "environment": "dev"
+  "environment": "Prod"
 }
