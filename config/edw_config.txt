@@ -1,0 +1,9 @@
+PROJECT_ID=my-gcp-project
+REGION=asia-south1
+ZONE=asia-south1-a
+
+SERVICE_ACCOUNT=my-service-account@my-gcp-project.iam.gserviceaccount.com
+
+STORAGE_BUCKET=my-gcp-bucket
+
+DATASET_ID=edw_dataset

@@ -1,0 +1,8 @@
+{
+  "project_id": "my-gcp-project",
+  "region": "asia-south1",
+  "zone": "asia-south1-a",
+  "storage_bucket": "my-gcp-bucket",
+  "dataset_id": "edw_dataset",
+  "environment": "dev"
+}
