@@ -1,6 +1,5 @@
+#last modified by today
 from google.cloud import bigquery
-
-
 class BigQueryUtils:
 
     def __init__(self, project_id):
